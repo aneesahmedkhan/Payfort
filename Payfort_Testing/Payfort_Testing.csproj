@@ -205,6 +205,7 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\jquery-1.9.1.min.js" />
+    <Content Include="Content\list_one.xml" />
     <Content Include="Content\Site.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -216,6 +217,7 @@
     </Content>
     <Content Include="Response.aspx" />
     <Content Include="WebForm1.aspx" />
+    <Content Include="Content\list_one.xls" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.js" />
     <Content Include="Scripts\ai.0.22.9-build00167.min.js" />
